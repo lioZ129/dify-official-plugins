@@ -15,3 +15,9 @@ https://api.hpc-ai.com/inference/v1
 - `minimax/minimax-m2.5`
 - `moonshotai/kimi-k2.5`
 - `zai-org/glm-5.1`
+
+## Links
+
+- Contact: https://github.com/lioZ129
+- Source: https://github.com/lioZ129/dify-official-plugins/tree/community/hpc-ai-provider-source/models/hpc_ai
+- Privacy Policy: https://www.hpc-ai.com/agreement/privacy

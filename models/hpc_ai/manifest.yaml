@@ -1,4 +1,4 @@
-author: langgenius
+author: hpcaiteam
 created_at: "2026-04-20T00:00:00Z"
 description:
   en_US: HPC-AI provides OpenAI-compatible model APIs for high-performance inference.
@@ -8,6 +8,7 @@ icon: hpc_ai_square.png
 label:
   en_US: HPC-AI
   zh_Hans: HPC-AI
+repo: https://github.com/lioZ129/dify-official-plugins/tree/community/hpc-ai-provider-source/models/hpc_ai
 meta:
   arch:
     - amd64
@@ -29,3 +30,4 @@ resource:
       llm: true
 type: plugin
 version: 0.0.1
+privacy: https://www.hpc-ai.com/agreement/privacy
