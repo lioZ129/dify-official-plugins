@@ -30,4 +30,4 @@ resource:
       llm: true
 type: plugin
 version: 0.0.1
-privacy: https://www.hpc-ai.com/agreement/privacy
+privacy: PRIVACY.md

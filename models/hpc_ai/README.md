@@ -20,4 +20,5 @@ https://api.hpc-ai.com/inference/v1
 
 - Contact: https://github.com/lioZ129
 - Source: https://github.com/lioZ129/dify-official-plugins/tree/community/hpc-ai-provider-source/models/hpc_ai
-- Privacy Policy: https://www.hpc-ai.com/agreement/privacy
+- Privacy Policy: [PRIVACY.md](PRIVACY.md)
+- HPC-AI Privacy Policy: https://www.hpc-ai.com/agreement/privacy
